@@ -1,0 +1,11 @@
+{
+  "name": "@ub-boilerplate/application-app",
+  "version": "0.0.1",
+  "description": "app services",
+  "author": "Rex Isaac Raphael",
+  "dependencies": {
+    "@nestjs/graphql": "^9.0.4",
+    "@apollo/federation": "^0.29.0",
+    "apollo-server-fastify": "^3.6.3"
+  }
+}

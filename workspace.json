@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "projects": {
+    "application": "apps/application",
+    "billing": "apps/billing",
+    "common": "libs/common",
+    "guardian": "apps/guardian",
+    "nighthawk": "apps/nighthawk",
+    "persistence": "libs/persistence",
+    "protobuf": "libs/protobuf",
+    "shardow": "apps/shardow"
+  }
+}
